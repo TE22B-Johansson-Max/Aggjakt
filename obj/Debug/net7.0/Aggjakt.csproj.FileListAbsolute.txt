@@ -1,0 +1,14 @@
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Aggjakt\bin\Debug\net7.0\Aggjakt.exe
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Aggjakt\bin\Debug\net7.0\Aggjakt.deps.json
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Aggjakt\bin\Debug\net7.0\Aggjakt.runtimeconfig.json
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Aggjakt\bin\Debug\net7.0\Aggjakt.dll
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Aggjakt\bin\Debug\net7.0\Aggjakt.pdb
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Aggjakt\obj\Debug\net7.0\Aggjakt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Aggjakt\obj\Debug\net7.0\Aggjakt.AssemblyInfoInputs.cache
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Aggjakt\obj\Debug\net7.0\Aggjakt.AssemblyInfo.cs
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Aggjakt\obj\Debug\net7.0\Aggjakt.csproj.CoreCompileInputs.cache
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Aggjakt\obj\Debug\net7.0\Aggjakt.dll
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Aggjakt\obj\Debug\net7.0\refint\Aggjakt.dll
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Aggjakt\obj\Debug\net7.0\Aggjakt.pdb
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Aggjakt\obj\Debug\net7.0\Aggjakt.genruntimeconfig.cache
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Aggjakt\obj\Debug\net7.0\ref\Aggjakt.dll
